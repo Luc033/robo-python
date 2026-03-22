@@ -1,1 +1,1 @@
-flask, playwright, requests, google-generativeai, flask-cors
+flask playwright requests google-generativeai flask-cors gunicorn
